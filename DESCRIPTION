@@ -1,0 +1,11 @@
+Package: mymath
+Type: Package
+Title: Mathematical Calculations
+Version: 1.0
+Author: Csaba Farago
+Maintainer: Csaba Farago <farago.csaba.phd@gmail.com>
+Description: This package performs math operations.
+    Addition and multiplication is implemented.
+License: GPL-3
+Encoding: UTF-8
+RoxygenNote: 7.1.1
